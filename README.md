@@ -1,2 +1,1 @@
-# ChatBot
-FAQ ChatBot 
+This chatbot works with frequently asked questions and retrieves responses to repeated queries. The queries and possible responses are stored as intents. Each query has a tag-response structure which the model is trained. The bot can then predict class of the input and assign a response based on the data it is trained on.
